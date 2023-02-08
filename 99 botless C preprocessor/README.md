@@ -21,7 +21,8 @@ make
 
 ## TO-DO
 
-- [ ] Improve (Makefile)[Makefile] - (Reference?)[https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/]
+- [ ] Improve [Makefile](Makefile) - [Reference?](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+- [ ] Add .gitignore
 - [ ] Minimize logs
 - [ ] Discard final error due to unexistance of main
 - [ ] Create documentation for ms windows
